@@ -1,5 +1,4 @@
-<h2>📌 Judul Portfolio</h2>
-<p><strong>Implementasi Transformer dengan PyTorch untuk Pemodelan Bahasa</strong></p>
+<h2><strong>Implementasi Transformer dengan PyTorch untuk Pemodelan Bahasa</strong></h2>
 
 <h2>🎯 Tujuan dan Kegunaan</h2>
 <p>Proyek ini bertujuan untuk membangun dan melatih model Transformer menggunakan PyTorch. Model ini dapat digunakan untuk berbagai tugas pemrosesan bahasa alami (NLP) seperti:</p>
@@ -34,6 +33,19 @@
     <li>🔹 <strong>Pretraining dengan Dataset Nyata</strong>: Menggunakan dataset yang lebih besar untuk meningkatkan performa model.</li>
     <li>🔹 <strong>Fine-tuning untuk Tugas Khusus</strong>: Menyesuaikan model untuk tugas spesifik seperti summarization atau question answering.</li>
 </ul>
+
+<h2>🛠️ Cara Menjalankan dan Belajar Sendiri di Lokal</h2>
+<ol>
+    <li>📌 Buat environment baru (disarankan) dengan perintah:<br>
+        <code>python3 -m venv env</code>
+    </li>
+    <li>📌 Aktifkan environment dengan perintah:<br>
+        <code>env\Scripts\activate.bat</code> (Windows) atau <code>source env/bin/activate</code> (Mac/Linux)
+    </li>
+    <li>📌 Install library yang diperlukan seperti yang ada pada <code>requirements.txt</code> dengan perintah:<br>
+        <code>pip install -r requirements.txt</code>
+    </li>
+</ol>
 
 <h2>📖 Referensi</h2>
 <ul>
